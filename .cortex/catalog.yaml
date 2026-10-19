@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "wms-core"
+  x-cortex-tag: "wms-core"
+  x-cortex-description: "Core warehouse inventory and location management"
+  x-cortex-owners:
+    - type: group
+      name: "Fulfillment Engineering Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001402"
+    apm_name: "Warehouse Management System"
+    cost_center: "CC-4410"
